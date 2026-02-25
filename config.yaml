@@ -1,0 +1,15 @@
+#calibration: '/media/alli/T7/vids/wb/brownian/wigglybots/clusters/'
+#raw-vids-dir: '/home/alli/media/video/wb/shape_shift/'
+raw-vids-dir: '/media/alli/T7/vids/wb/brownian/wigglybots/clusters/new/'
+vid-ext: 'mkv'
+
+write-tracked-vid: 1 # 0 for no output vid, 1 for vid
+
+# number of threads to use for video processing
+num-threads: 1
+
+
+# units of size will be units of x,y coords
+tag-size: 0.035
+#tag-type: 'tag36h11'
+tag-type: 'tagStandard41h12'

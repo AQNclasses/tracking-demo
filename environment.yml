@@ -1,0 +1,7 @@
+name: apriltags
+dependencies:
+    - python=3.*
+    - opencv-python
+    - numpy
+    - dt_apriltags
+    - pyyaml
